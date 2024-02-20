@@ -17,10 +17,11 @@ Somos uma equipe apaixonada por desenvolvimento de software e soluções persona
 ## Tecnologias que utilizamos
 
 - Java
-- JavaScript (Node.js, React, Vue.js,Next.js)
+- JavaScript (Node.js, React, Vue.js,Next.js, Nest,js)
 - Python
 - PHP
 - Banco de Dados (SQL, NoSQL)
+- ORM Prisma,knext
 - Tecnologias de Cloud (AWS, Azure, Google Cloud)
 
 ## Como nos contatar
