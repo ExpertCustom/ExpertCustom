@@ -17,7 +17,7 @@ Somos uma equipe apaixonada por desenvolvimento de software e soluções persona
 ## Tecnologias que utilizamos
 
 - Java
-- JavaScript (Node.js, React, Vue.js)
+- JavaScript (Node.js, React, Vue.js,Next.js)
 - Python
 - PHP
 - Banco de Dados (SQL, NoSQL)
